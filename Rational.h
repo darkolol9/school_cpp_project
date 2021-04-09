@@ -1,7 +1,7 @@
 #pragma once
 #include"Polynomial.h"
 #include<iostream>
-
+//newnote
 using namespace std;
 
 
